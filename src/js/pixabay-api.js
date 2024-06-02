@@ -18,3 +18,4 @@ export async function buildUrl(query, page) {
 
   return fetchGallery.data;
 }
+console.log('zXc');
